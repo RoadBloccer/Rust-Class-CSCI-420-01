@@ -24,3 +24,5 @@ cargo test
 All assignments require the GitHub Actions CI checks to be passing. The CI
 workflow runs formatting, linting, and the test suite on every push and pull
 request.
+
+Logan Coiner
